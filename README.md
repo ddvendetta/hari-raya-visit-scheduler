@@ -103,4 +103,4 @@ Dockerfile         # Multi-stage Docker build
 
 ## License
 
-Private — personal use only.
+MIT — open source, free to use and modify.
